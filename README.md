@@ -1,4 +1,4 @@
 # Demo
 This is my first Git Repo
 <br>
-Author - Sushant
+Author - Sushant A N
